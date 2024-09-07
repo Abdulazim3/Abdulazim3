@@ -1,0 +1,33 @@
+👋 Hi, I'm Abdulazim Ahmed!
+
+I'm a passionate software developer with a focus on full-stack development and mobile applications. Recently, I completed ParkPro, a university project that helps users find parking spots, check vehicle details, and access real-time weather and traffic updates. Now, I’m excited to work on new and challenging projects that solve real-world problems.
+
+🚀 **Current Projects**
+- **Tech Academia Data Visualization**: I participated in a collaborative project with Tech Academia, creating a powerful data visualization tool. You can explore the project in my repository for more details.
+- **ParkPro**: An Android app developed as part of my university project to reduce congestion and pollution with real-time traffic updates and vehicle information.
+- **Portfolio Website**: I'm currently in the process of developing my own portfolio website to showcase my projects and skills. Stay tuned!
+
+🛠️ **Tech Stack & Skills**
+- **Programming Languages**: Java, Kotlin, Python, JavaScript
+- **Frameworks & Libraries**: Android Studio, Django
+- **Databases**: Firebase, SQL
+- **Tools**: Git, Matplotlib, REST APIs, Figma
+- **Methodologies & Practices**: Agile Development, SCRUM, MVP, User-Centric Design, CI/CD, Version Control, Code Review
+
+🌱 **What I'm Learning**
+- **Python**: Expanding my knowledge and capabilities with Python, focusing on advanced features and real-world applications.
+- **React Native**: Building responsive and dynamic websites using React Native, enhancing both my web and mobile development skills.
+- **LeetCode**: Regularly practicing coding problems on LeetCode to sharpen my problem-solving abilities and prepare for technical interviews.
+
+📫 **Let's Connect!**
+- [LinkedIn](http://www.linkedin.com/in/abdulazim-ahmed-060ab3194)
+- [GitHub](https://github.com/Abdulazim3)
+
+🎯 **Goals for 2024**
+- Build and launch my portfolio website.
+- Contribute to open-source projects.
+- Expand my knowledge in cloud computing and DevOps.
+
+🔗 **Explore My Work**
+- **Tech Academia Data Visualization**: [Repository Link](#)
+- **ParkPro**: [Repository Link](#)
