@@ -1,10 +1,10 @@
-👋 Hi, I'm Abdulazim Ahmed!
+# 👋 Hi, I'm Abdulazim Ahmed!
 
 I'm a passionate software developer with a focus on full-stack development and mobile applications. Recently, I completed ParkPro, a university project that helps users find parking spots, check vehicle details, and access real-time weather and traffic updates. Now, I’m excited to work on new and challenging projects that solve real-world problems.
 
 🚀 **Current Projects**
-- **Tech Academia Data Visualization**: I participated in a collaborative project with Tech Academia, creating a powerful data visualization tool. You can explore the project in my repository for more details.
-- **ParkPro**: An Android app developed as part of my university project to reduce congestion and pollution with real-time traffic updates and vehicle information.
+- **Tech Academia Data Visualization**: I participated in a collaborative project with Tech Academia, creating a powerful data visualization tool. You can explore the project [here](https://github.com/Ke7o/DotPlotHackathon.git).
+- **ParkPro**: An Android app developed as part of my university project to reduce congestion and pollution with real-time traffic updates and vehicle information. Check out the project [here](https://github.com/Abdulazim3/ParkPro.git).
 - **Portfolio Website**: I'm currently in the process of developing my own portfolio website to showcase my projects and skills. Stay tuned!
 
 🛠️ **Tech Stack & Skills**
@@ -29,5 +29,5 @@ I'm a passionate software developer with a focus on full-stack development and m
 - Expand my knowledge in cloud computing and DevOps.
 
 🔗 **Explore My Work**
-- **Tech Academia Data Visualization**: [Repository Link](#)
-- **ParkPro**: [Repository Link](#)
+- **Tech Academia Data Visualization**: [Repository Link](https://github.com/Ke7o/DotPlotHackathon.git)
+- **ParkPro**: [Repository Link](https://github.com/Abdulazim3/ParkPro.git)
